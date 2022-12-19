@@ -1,0 +1,46 @@
+.bg {
+    background-color: rgba(217, 217, 217, 0.59);
+
+}
+
+.Capsicum {
+    position: absolute;
+    left: 48.5%;
+    top: 54px;
+
+}
+
+.Gobi {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.haldi {
+    position: absolute;
+    left: 42.2%;
+    bottom: 0;
+}
+
+.for {
+    position: absolute;
+    right: 5.5%;
+    bottom: 10%;
+}
+
+.f {
+    background-color: rgba(217, 217, 217, 0.59);
+}
+
+.text {
+    color: #FF5B00;
+}
+
+.t {
+    background-color: #FF5B00;
+}
+
+.wh {
+    width: 400px;
+    height: 530px;
+}
