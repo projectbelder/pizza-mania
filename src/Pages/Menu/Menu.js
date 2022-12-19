@@ -4,7 +4,7 @@ import './Menu.css'
 
 const Menu = () => {
     return (
-        <div className='flex justify-between text mt-16'>
+        <div className='flex justify-between text'>
             <div>
                 <img className='w-[360px]' src={MenuLogo} alt="MenuPic" />
             </div>

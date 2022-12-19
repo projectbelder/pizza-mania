@@ -1,19 +1,19 @@
 import './App.css';
-import Home from './Pages/Home/Home';
 import Banner from './Pages/Banner/Banner';
+import Home from './Pages/Home/Home';
 
 function App() {
   return (
-  <div>
-  <div className="bg">
-      <Home></Home>
+    <div>
+
+      <div className=" mx-auto bg">
+        <Banner></Banner>
       </div>
-    <div className=" mx-auto bg">
-    
-      <p>Pizza mania</p>
-      <Banner></Banner>
+
+      <div className="bg">
+        <Home></Home>
       </div>
-      </div>
+    </div>
   );
 }
 

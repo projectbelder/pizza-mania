@@ -1,10 +1,12 @@
 import React from 'react';
-import banner_img from '../../assets/banner/banner_img.png'
-import victor_img from '../../assets/banner/Vector.png'
+import banner_img from '../../Assets/banner/banner_img.png'
+import victor_img from '../../Assets/Vector.png'
+import Navbar from '../Navbar/Navbar';
 
 const Banner = () => {
     return (
         <div className='mx-5'>
+            <Navbar></Navbar>
             <div className=''>
                 <div className="hero">
                     <div className="hero-content flex-col p-0 lg:flex-row-reverse">
