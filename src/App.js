@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import Banner from './Pages/Banner/Banner';
 
 function App() {
   return (
-    <div className="App">
+    <div className=" mx-auto bg">
       <p>Pizza mania</p>
+      <Banner></Banner>
     </div>
   );
 }
